@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\Conandvartut.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\Conandvartut.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\Conandvartut.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\Conandvartut.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\ref\Conandvartut.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\bin\Debug\net6.0\Conandvartut.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\ref\Conandvartut.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Conandvartut\Conandvartut\obj\Debug\net6.0\Conandvartut.genruntimeconfig.cache

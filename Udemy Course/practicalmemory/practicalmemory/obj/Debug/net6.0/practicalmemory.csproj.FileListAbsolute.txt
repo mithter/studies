@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\practicalmemory.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\practicalmemory.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\practicalmemory.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\practicalmemory.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\ref\practicalmemory.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\bin\Debug\net6.0\practicalmemory.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\ref\practicalmemory.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalmemory\practicalmemory\obj\Debug\net6.0\practicalmemory.genruntimeconfig.cache

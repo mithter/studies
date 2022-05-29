@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\mem.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\mem.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\mem.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\mem.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\ref\mem.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\bin\Debug\net6.0\mem.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\ref\mem.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\mem\mem\obj\Debug\net6.0\mem.genruntimeconfig.cache

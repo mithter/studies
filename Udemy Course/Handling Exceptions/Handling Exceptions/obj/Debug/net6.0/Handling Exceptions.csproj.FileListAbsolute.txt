@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\Handling Exceptions.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\Handling Exceptions.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\Handling Exceptions.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\Handling Exceptions.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\ref\Handling Exceptions.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\bin\Debug\net6.0\Handling Exceptions.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\ref\Handling Exceptions.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Handling Exceptions\Handling Exceptions\obj\Debug\net6.0\Handling Exceptions.genruntimeconfig.cache

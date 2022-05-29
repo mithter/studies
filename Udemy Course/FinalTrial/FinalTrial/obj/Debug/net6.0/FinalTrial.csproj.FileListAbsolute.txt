@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\FinalTrial.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\FinalTrial.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\FinalTrial.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\FinalTrial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\ref\FinalTrial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\bin\Debug\net6.0\FinalTrial.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\ref\FinalTrial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FinalTrial\FinalTrial\obj\Debug\net6.0\FinalTrial.genruntimeconfig.cache

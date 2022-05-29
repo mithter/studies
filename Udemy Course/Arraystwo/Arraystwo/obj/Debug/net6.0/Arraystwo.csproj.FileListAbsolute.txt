@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\Arraystwo.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\Arraystwo.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\Arraystwo.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\Arraystwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\ref\Arraystwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\bin\Debug\net6.0\Arraystwo.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\ref\Arraystwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\Arraystwo\Arraystwo\obj\Debug\net6.0\Arraystwo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\RandomProject.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\RandomProject.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\RandomProject.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\RandomProject.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\ref\RandomProject.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\bin\Debug\net6.0\RandomProject.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\ref\RandomProject.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\RandomProject\RandomProject\obj\Debug\net6.0\RandomProject.genruntimeconfig.cache

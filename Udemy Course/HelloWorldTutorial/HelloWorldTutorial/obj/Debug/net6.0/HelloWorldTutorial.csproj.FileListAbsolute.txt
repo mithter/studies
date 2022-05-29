@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\ref\HelloWorldTutorial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\ref\HelloWorldTutorial.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.genruntimeconfig.cache

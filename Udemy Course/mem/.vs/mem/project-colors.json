@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7b3e995-a122-412b-a354-1a7ba29836a7": {
+      "ProjectGuid": "b7b3e995-a122-412b-a354-1a7ba29836a7",
+      "DisplayName": "mem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

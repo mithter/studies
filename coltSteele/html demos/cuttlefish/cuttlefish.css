@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-weight: 700;
+    text-decoration: red wavy underline;
+    letter-spacing: 15px;
+    font-size: 48px;
+    font-family: Impact;
+}
+p {
+    font-weight: normal;
+}
+a {
+    text-decoration: none;
+}

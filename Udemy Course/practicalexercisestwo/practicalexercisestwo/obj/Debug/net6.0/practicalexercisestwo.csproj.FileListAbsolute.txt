@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\practicalexercisestwo.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\practicalexercisestwo.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\practicalexercisestwo.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\practicalexercisestwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\ref\practicalexercisestwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\bin\Debug\net6.0\practicalexercisestwo.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\ref\practicalexercisestwo.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisestwo\practicalexercisestwo\obj\Debug\net6.0\practicalexercisestwo.genruntimeconfig.cache

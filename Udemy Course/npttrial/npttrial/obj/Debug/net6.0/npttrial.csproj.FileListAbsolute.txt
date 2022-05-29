@@ -1,0 +1,5 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\npttrial\npttrial\obj\Debug\net6.0\npttrial.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\npttrial\npttrial\obj\Debug\net6.0\npttrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\npttrial\npttrial\obj\Debug\net6.0\npttrial.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\npttrial\npttrial\obj\Debug\net6.0\npttrial.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\npttrial\npttrial\obj\Debug\net6.0\npttrial.csproj.CoreCompileInputs.cache

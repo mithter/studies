@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\practicalexarrays.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\practicalexarrays.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\practicalexarrays.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\practicalexarrays.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\ref\practicalexarrays.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\bin\Debug\net6.0\practicalexarrays.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\ref\practicalexarrays.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexarrays\practicalexarrays\obj\Debug\net6.0\practicalexarrays.genruntimeconfig.cache

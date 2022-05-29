@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\NonPrim.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\NonPrim.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\NonPrim.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\NonPrim.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\ref\NonPrim.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\bin\Debug\net6.0\NonPrim.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\ref\NonPrim.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\NonPrim\NonPrim\obj\Debug\net6.0\NonPrim.genruntimeconfig.cache

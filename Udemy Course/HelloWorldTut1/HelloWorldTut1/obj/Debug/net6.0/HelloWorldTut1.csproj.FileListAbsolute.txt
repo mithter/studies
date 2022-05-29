@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\HelloWorldTut1.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\HelloWorldTut1.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\HelloWorldTut1.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\HelloWorldTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\ref\HelloWorldTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\bin\Debug\net6.0\HelloWorldTut1.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\ref\HelloWorldTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\HelloWorldTut1\HelloWorldTut1\obj\Debug\net6.0\HelloWorldTut1.genruntimeconfig.cache

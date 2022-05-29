@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\practicalexercises.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\practicalexercises.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\practicalexercises.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\practicalexercises.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\ref\practicalexercises.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\bin\Debug\net6.0\practicalexercises.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\ref\practicalexercises.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercises\practicalexercises\obj\Debug\net6.0\practicalexercises.genruntimeconfig.cache

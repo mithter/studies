@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\practicalexercisethree.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\practicalexercisethree.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\practicalexercisethree.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\practicalexercisethree.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\ref\practicalexercisethree.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\bin\Debug\net6.0\practicalexercisethree.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\ref\practicalexercisethree.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\practicalexercisethree\practicalexercisethree\obj\Debug\net6.0\practicalexercisethree.genruntimeconfig.cache

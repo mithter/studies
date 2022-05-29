@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\TrialFINALFINAL.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\TrialFINALFINAL.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\TrialFINALFINAL.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\TrialFINALFINAL.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\ref\TrialFINALFINAL.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\bin\Debug\net6.0\TrialFINALFINAL.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\ref\TrialFINALFINAL.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\TrialFINALFINAL\TrialFINALFINAL\obj\Debug\net6.0\TrialFINALFINAL.genruntimeconfig.cache

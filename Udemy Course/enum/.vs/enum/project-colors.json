@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80f5bf08-c5fb-485b-8db4-8ca408d8f4fb": {
+      "ProjectGuid": "80f5bf08-c5fb-485b-8db4-8ca408d8f4fb",
+      "DisplayName": "enum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

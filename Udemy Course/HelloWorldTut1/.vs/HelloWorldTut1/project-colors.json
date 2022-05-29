@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2dda02ca-d574-46c4-be29-d6fb0518df62": {
+      "ProjectGuid": "2dda02ca-d574-46c4-be29-d6fb0518df62",
+      "DisplayName": "HelloWorldTut1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\exercisesend.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\exercisesend.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\exercisesend.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\exercisesend.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\ref\exercisesend.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\bin\Debug\net6.0\exercisesend.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\ref\exercisesend.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\exercisesend\exercisesend\obj\Debug\net6.0\exercisesend.genruntimeconfig.cache

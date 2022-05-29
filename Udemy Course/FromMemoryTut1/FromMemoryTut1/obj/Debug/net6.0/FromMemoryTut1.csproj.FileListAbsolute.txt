@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\FromMemoryTut1.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\FromMemoryTut1.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\FromMemoryTut1.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\FromMemoryTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\ref\FromMemoryTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\bin\Debug\net6.0\FromMemoryTut1.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\ref\FromMemoryTut1.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\FromMemoryTut1\FromMemoryTut1\obj\Debug\net6.0\FromMemoryTut1.genruntimeconfig.cache

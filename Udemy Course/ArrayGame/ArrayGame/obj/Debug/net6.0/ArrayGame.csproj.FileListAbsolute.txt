@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ref\ArrayGame.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\bin\Debug\net6.0\ArrayGame.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ref\ArrayGame.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArrayGame\ArrayGame\obj\Debug\net6.0\ArrayGame.genruntimeconfig.cache

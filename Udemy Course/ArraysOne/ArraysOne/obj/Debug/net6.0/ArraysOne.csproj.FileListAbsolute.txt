@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ArraysOne.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ArraysOne.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ArraysOne.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ArraysOne.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ref\ArraysOne.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\bin\Debug\net6.0\ArraysOne.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ref\ArraysOne.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ArraysOne\ArraysOne\obj\Debug\net6.0\ArraysOne.genruntimeconfig.cache

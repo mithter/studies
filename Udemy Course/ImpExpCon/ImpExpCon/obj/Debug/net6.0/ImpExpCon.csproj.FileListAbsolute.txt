@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ImpExpCon.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ImpExpCon.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ImpExpCon.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ImpExpCon.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ref\ImpExpCon.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\bin\Debug\net6.0\ImpExpCon.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ref\ImpExpCon.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\ImpExpCon\ImpExpCon\obj\Debug\net6.0\ImpExpCon.genruntimeconfig.cache

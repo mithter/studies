@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\tfm.exe
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\tfm.deps.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\tfm.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\tfm.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\ref\tfm.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\bin\Debug\net6.0\tfm.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\ref\tfm.dll
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.pdb
+C:\Users\micha\OneDrive\Desktop\Udemy Course\tfm\tfm\obj\Debug\net6.0\tfm.genruntimeconfig.cache
