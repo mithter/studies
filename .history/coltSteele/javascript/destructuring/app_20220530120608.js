@@ -80,12 +80,4 @@ const movies = [
 
 ]
 
-movies.filter(({ score }) => score >= 90)
-
-// movies.map(movie => {
-//     return `${movie.title} (${movie.year}) is rated ${movie.score}`
-// })
-
-movies.map(({ title, score, year }) => {
-    return `${title} (${year}) is rated ${score}`
-})
+movies.filter((movie) => movie.score >= 90)

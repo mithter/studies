@@ -45,47 +45,4 @@ const user2 = {
     state: 'Nebraska'
 }
 
-const { city, state, died: deathYear = 'N/A' } = user2
-
-// function fullName(user) {
-//     return `${user.firstName} ${user.lastName}`
-// }
-
-// function fullName(user) {
-//     const { firstName, lastName } = user;
-//     return `${firstName} ${lastName}`
-// }
-
-function fullName({ firstName, lastName }) {
-    return `${firstName} ${lastName}`
-}
-
-
-const movies = [
-    {
-        title: 'Amadeus',
-        score: 99,
-        year: 1984
-    },
-    {
-        title: 'Sharknado',
-        score: 35,
-        year: 2013
-    },
-    {
-        title: 'Alien',
-        score: 90,
-        year: 1979
-    },
-
-]
-
-movies.filter(({ score }) => score >= 90)
-
-// movies.map(movie => {
-//     return `${movie.title} (${movie.year}) is rated ${movie.score}`
-// })
-
-movies.map(({ title, score, year }) => {
-    return `${title} (${year}) is rated ${score}`
-})
+const { city, state, died = 'N/A' } = user2

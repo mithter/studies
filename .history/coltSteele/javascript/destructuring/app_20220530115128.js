@@ -61,31 +61,21 @@ function fullName({ firstName, lastName }) {
 }
 
 
-const movies = [
-    {
-        title: 'Amadeus',
-        score: 99,
-        year: 1984
-    },
-    {
-        title: 'Sharknado',
-        score: 35,
-        year: 2013
-    },
-    {
-        title: 'Alien',
-        score: 90,
-        year: 1979
-    },
+// const movies = [
+//     {
+//         title: 'Amadeus',
+//         score: 99,
+//         year: 1984
+//     },
+//     {
+//         title: 'Sharknado',
+//         score: 35,
+//         year: 2013
+//     },
+//     {
+//         title: 'Alien',
+//         score: 90,
+//         year: 1979
+//     },
 
-]
-
-movies.filter(({ score }) => score >= 90)
-
-// movies.map(movie => {
-//     return `${movie.title} (${movie.year}) is rated ${movie.score}`
-// })
-
-movies.map(({ title, score, year }) => {
-    return `${title} (${year}) is rated ${score}`
-})
+// ]

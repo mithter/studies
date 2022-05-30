@@ -87,5 +87,5 @@ movies.filter(({ score }) => score >= 90)
 // })
 
 movies.map(({ title, score, year }) => {
-    return `${title} (${year}) is rated ${score}`
+    return `${movie.title} (${movie.year}) is rated ${movie.score}`
 })
