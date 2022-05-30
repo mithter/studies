@@ -36,3 +36,5 @@ function raceResults(gold, silver, ...everyoneElse) {
     console.log(`Silver metal goes to :${silver}`);
     console.log(`And thanks to everyone else: ${everyoneElse}`);
 }
+
+console.log("Build")
