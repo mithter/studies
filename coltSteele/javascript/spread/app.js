@@ -38,3 +38,4 @@ function raceResults(gold, silver, ...everyoneElse) {
 }
 
 console.log("Build")
+console.log("Git")
