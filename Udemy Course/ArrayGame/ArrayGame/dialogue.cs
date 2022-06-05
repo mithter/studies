@@ -7,7 +7,7 @@ using ArrayGame;
 
 namespace ArrayGame
 {
-     class dialogue
+    class dialogue
     {
         public static void combatDialogue()
         {
@@ -27,7 +27,7 @@ namespace ArrayGame
             Console.WriteLine();
             Console.WriteLine("1. Attack him");
             Console.WriteLine("2. Run away");
-            
+
         }
 
         public static void endWinText()

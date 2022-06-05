@@ -8,13 +8,13 @@ namespace arrayGame
     {
         static void Main(string[] args)
         {
-            int playerMana = 10;
-            int enemyMana = 10;
-            int playerHitpoints = 25;
-            int enemyHitpoints = 25;
+            // int playerMana = 10;
+            // int enemyMana = 10;
+            // int playerHitpoints = 25;
+            // int enemyHitpoints;
             int playerAttack;
             int enemyAttack;
-          
+
             Random rand = new Random();
             int enemyChanceToHit;
             int playerChanceToHit;
@@ -29,7 +29,7 @@ namespace arrayGame
                 enemyChanceToHit = rand.Next(1, 5);
                 playerAttack = rand.Next(1, 5);
                 enemyAttack = rand.Next(1, 5);
-                
+
 
                 dialogue.options();
 
@@ -42,6 +42,6 @@ namespace arrayGame
             }
         }
 
-        
+
     }
 }

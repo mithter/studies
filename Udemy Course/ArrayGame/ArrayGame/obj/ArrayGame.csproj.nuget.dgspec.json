@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj": {}
+    "C:\\Users\\Mike\\Desktop\\mike-coding\\studies\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj": {
+    "C:\\Users\\Mike\\Desktop\\mike-coding\\studies\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\mike-coding\\studies\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj",
         "projectName": "ArrayGame",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\Udemy Course\\ArrayGame\\ArrayGame\\obj\\",
+        "projectPath": "C:\\Users\\Mike\\Desktop\\mike-coding\\studies\\Udemy Course\\ArrayGame\\ArrayGame\\ArrayGame.csproj",
+        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mike\\Desktop\\mike-coding\\studies\\Udemy Course\\ArrayGame\\ArrayGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
